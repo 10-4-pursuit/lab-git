@@ -125,5 +125,5 @@ Copy and paste _the command(s)_ you used into the code block below.
 
 ```
 git add . OR git add readme.md
-git commit -m "added to readme.md"
+git commit -m "finshed"
 ```
