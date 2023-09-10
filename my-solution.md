@@ -23,7 +23,7 @@ Copy and paste the _output_ of the command(s) you ran into the code block below.
 
 ```
 Initialized empty Git repository in /Users/pursuitadmin/git-lab/.git/
-➜  git-lab git:(main)
+ git-lab git:(main)
 ```
 
 ## 3
